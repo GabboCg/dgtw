@@ -86,4 +86,4 @@ Industry classification uses **Fama-French 48 industries**, with SIC codes sourc
 
 ## Reference
 
-Daniel, K., Grinblatt, M., Titman, S., & Wermers, R. (1997). Measuring mutual fund performance with characteristic-based benchmarks. *Journal of Finance*, 52(3), 1035–1058. https://doi.org/10.1111/j.1540-6261.1997.tb02724.x
+- Daniel, K., Grinblatt, M., Titman, S., & Wermers, R. (1997). Measuring mutual fund performance with characteristic-based benchmarks. *Journal of Finance*, 52(3), 1035–1058. https://doi.org/10.1111/j.1540-6261.1997.tb02724.x
