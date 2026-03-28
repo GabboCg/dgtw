@@ -6,7 +6,6 @@ CLAUDE.md
 .RData
 .Ruserdata
 .Rproj.user
-*.Rproj
 
 # Data output
 data/
