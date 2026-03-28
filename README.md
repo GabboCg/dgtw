@@ -43,6 +43,8 @@ password = Sys.getenv("WRDS_PASSWORD"),
 
 ## Usage
 
+Open `dgtw.Rproj` in RStudio and run `load.R`, or from the terminal:
+
 ```bash
 Rscript load.R
 ```
@@ -76,6 +78,7 @@ Industry classification uses **Fama-French 48 industries**, with SIC codes sourc
 
 ```
 .
+├── dgtw.Rproj      # RStudio project file
 ├── load.R          # Entry point: connects to WRDS, runs pipeline, saves output
 ├── R/
 │   ├── ffi48.R     # Fama-French 48 industry classification
