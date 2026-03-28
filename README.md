@@ -1,6 +1,6 @@
 # Characteristics-Based Benchmarks (DGTW)
 
-An R replication of the **Daniel, Grinblatt, Titman & Wermers (1997, JF)** characteristics-based benchmark methodology. Constructs 125 size × book-to-market × momentum portfolios and computes stock-level benchmark-adjusted (DGTW) excess returns.
+An R replication of the Daniel, Grinblatt, Titman & Wermers (1997, JF) characteristics-based benchmark methodology. Constructs 125 size × book-to-market × momentum portfolios and computes stock-level benchmark-adjusted (DGTW) excess returns.
 
 [![R](https://img.shields.io/badge/R-%3E%3D4.1-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![WRDS](https://img.shields.io/badge/Data-WRDS-003366)](https://wrds-www.wharton.upenn.edu/)
