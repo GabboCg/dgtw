@@ -1,0 +1,21 @@
+# Claude
+CLAUDE.md
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user
+*.Rproj
+
+# Data output
+data/
+
+# Credentials
+.Renviron
+
+# macOS
+.DS_Store
+
+# Jupyter
+*.ipynb
