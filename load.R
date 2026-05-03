@@ -8,10 +8,10 @@
 #
 #                       Spring, 2026
 #
-#                https://gWRDS_USER_PLACEHOLDER.rbind.io
+#                https://gcabrerag.rbind.io
 #
 # ------------------------------ #
-# email: gabriel.WRDS_USER_PLACEHOLDERuzman@postgrad.manchester.ac.uk
+# email: gabriel.cabreraguzman@postgrad.manchester.ac.uk
 # ======================================================== #
 
 # Load packages
