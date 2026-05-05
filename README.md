@@ -5,6 +5,12 @@
 
 An R replication of the Daniel, Grinblatt, Titman & Wermers (1997, JF) characteristics-based benchmark methodology. Constructs 125 size × book-to-market × momentum portfolios and computes stock-level benchmark-adjusted (DGTW) excess returns.
 
+## Overview
+
+DGTW benchmarks isolate the part of a stock's return not explained by its **size**, **value**, and **momentum** characteristics. Each stock is matched to a portfolio of peers with similar traits, and its excess return is measured against that peer portfolio.
+
+The pipeline pulls CRSP and Compustat data from **WRDS**, forms 125 benchmark portfolios each June via a sequential triple sort, and returns a stock-month panel of raw returns, benchmark returns, and DGTW excess returns. The sample window is set via the `start_date` / `end_date` arguments to `build_dgtw()` in `load.R`.
+
 ## Data
 
 Requires access to **WRDS** (Wharton Research Data Services):
